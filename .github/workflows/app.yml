@@ -1,0 +1,32 @@
+name: Integração e Implantação Contínuas (CI/CD)
+
+on:
+  push:
+    branches:
+      - main  # Executa o workflow em push para a branch main
+  pull_request:
+    branches:
+      - main  # Executa o workflow em pull requests para a branch main
+  workflow_dispatch:  # Permite execução manual na aba Actions
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest  # Ambiente de execução
+
+    steps:
+      - name: Checkout do código-fonte
+        uses: actions/checkout@v4  # Faz o download do código do repositório
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'  # Versão do Node.js a ser utilizada
+
+      - name: Instalar dependências
+        run: npm ci  # Instala as dependências do projeto
+
+      - name: Executar testes
+        run: npm test  # Executa os testes do projeto
+
+      - name: Build da aplicação
+        run: npm run
