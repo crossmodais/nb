@@ -20,12 +20,6 @@ Este notebook tem como foco principal a análise de risco e retorno em portfóli
 * **Potencial de Crescimento:** A análise da qualidade da interação busca identificar altcoins com forte potencial de crescimento e adoção, com base na força e no engajamento de sua comunidade.
 * **Fator de Diferenciação:** A qualidade da interação pode ser um fator crucial para diferenciar altcoins com métricas de risco e retorno semelhantes, auxiliando na tomada de decisão de investimento.
 
-**Considerações Adicionais:**
-
-* **Dados Históricos:** O desempenho passado não garante resultados futuros. Análises baseadas em dados históricos devem ser interpretadas com cautela.
-* **Fatores Externos:** O mercado de criptomoedas é sensível a fatores externos como regulamentação, adoção em massa e eventos globais. Esses fatores devem ser considerados na tomada de decisões.
-* **Custos de Transação:** Os custos de transação podem impactar significativamente o retorno do portfólio, especialmente em estratégias com rebalanceamento frequente.
-
 **Disclaimer:**
 
 Este notebook e as informações aqui contidas são apenas para fins educacionais e não constituem aconselhamento financeiro. Investir em criptomoedas envolve riscos significativos. Consulte um consultor financeiro antes de tomar qualquer decisão de investimento. 
