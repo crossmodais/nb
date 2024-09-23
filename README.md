@@ -1,5 +1,3 @@
-# **Recontextualizando as principais tendências para análise de risco vs. retorno em portfólios com diversificação em 150 altcoins e rebalanceamento automatizado:**
-
 # **PCA (Análise de Componentes Principais):**
 # * **Redução de Dimensionalidade:** O PCA reduz a complexidade dos dados, identificando os principais componentes que explicam a maior parte da variância no conjunto de dados. No contexto de um portfólio de altcoins, isso pode ajudar a identificar os fatores de risco e retorno mais importantes.
 # * **Diversificação:** Ao analisar os componentes principais, podemos identificar altcoins que se movem de forma diferente umas das outras, permitindo a construção de um portfólio mais diversificado e, potencialmente, menos arriscado.
